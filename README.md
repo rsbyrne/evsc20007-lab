@@ -32,6 +32,11 @@ NOTE: Unfortunately, *Diagram* isn't installed by default on an *Anaconda* *Jupy
 ![image](https://user-images.githubusercontent.com/11673079/128282727-aefcc4d5-96fe-4fa1-9921-e655ee5daeb7.png)
 
 7. Type the following into the top cell and hit `Shift+Enter` to run it. This will download all the course notebooks into your local folder. Once you've done this one time, you won't have to do it again unless you want a fresh copy of the course files.
+```python
+%%bash
+rm -rf evsc20007-lab
+git clone --no-local https://github.com/rsbyrne/evsc20007-lab
+```
 
 ![image](https://user-images.githubusercontent.com/11673079/128283893-9220d9d3-efc4-458f-81c8-042053426935.png)
 
