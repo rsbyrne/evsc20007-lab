@@ -4,6 +4,10 @@ Hullo students of UniMelb EVSC20007!
 
 This 'repository' is an online store of the entire course. It contains some instructions for how to 'install' the course on your own laptop:
 
+NOTE: This repository is a work-in-progress. Only one of the tutorial notebooks has been uploaded so far. Once we have added the rest, you can repeat Step 7 to 'pull' an up-to-date copy from the internet.
+
+NOTE: Unfortunately, *Diagram* isn't installed by default on an *Anaconda* *Jupyter* server. We will be adding some instructions shortly for how to install this.
+
 1. Follow these instructions to install *Anaconda* - a 'distribution' of *Python* that runs on your own laptop.
   - Windows: https://docs.anaconda.com/anaconda/install/windows/
   - Mac: https://docs.anaconda.com/anaconda/install/mac-os/
@@ -27,9 +31,9 @@ This 'repository' is an online store of the entire course. It contains some inst
 
 ![image](https://user-images.githubusercontent.com/11673079/128282727-aefcc4d5-96fe-4fa1-9921-e655ee5daeb7.png)
 
-7. Type the following into the top cell and hit `Shift+Enter` to run it. This will download all the course notebooks into your local folder:
+7. Type the following into the top cell and hit `Shift+Enter` to run it. This will download all the course notebooks into your local folder. Once you've done this one time, you won't have to do it again unless you want a fresh copy of the course files.
 
-![image](https://user-images.githubusercontent.com/11673079/128282963-edf999b3-44af-4814-b89a-0da0dab81a19.png)
+![image](https://user-images.githubusercontent.com/11673079/128283893-9220d9d3-efc4-458f-81c8-042053426935.png)
 
 8. You are ready to go! You can do anything on your local Python server. Copy the course notebooks and do your exercises in them. Remember, they are just ordinary files, which means you can attach them as emails to send to your tutors or each other if you want to share them. When you are done for the day, go to `File > Shut Down` to close your server. You can restart it tomorrow using the *Anaconda Navigator* just the same as before.
 
