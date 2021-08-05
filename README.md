@@ -40,6 +40,6 @@ git clone --no-local https://github.com/rsbyrne/evsc20007-lab
 
 ![image](https://user-images.githubusercontent.com/11673079/128283893-9220d9d3-efc4-458f-81c8-042053426935.png)
 
-8. You are ready to go! You can do anything on your local Python server. Copy the course notebooks and do your exercises in them. Remember, they are just ordinary files, which means you can attach them as emails to send to your tutors or each other if you want to share them. When you are done for the day, go to `File > Shut Down` to close your server. You can restart it tomorrow using the *Anaconda Navigator* just the same as before.
+8. You are ready to go! You can do anything on your local Python server. Copy the course notebooks and do your exercises in them. Remember, they are just ordinary files, which means you can upload them through the LMS to share them with your tutors or each other. When you are done for the day, go to `File > Shut Down` to close your server. You can restart it tomorrow using the *Anaconda Navigator* just the same as before.
 
 Have fun!
